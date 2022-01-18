@@ -7,7 +7,7 @@
         header img{border-radius: 50%;width: 70px;float: left; color: #2a9c9c;position: relative;z-index: 200;margin-right: 30px;}
         
         /**Sección NAVEGACIÓN**/
-        section{font-family: 'Bree Serif', serif;font-size: 20px}
+        .respmenu{font-family: 'Bree Serif', serif;font-size: 20px}
   
         .respmenu a {
           color: inherit;
@@ -93,7 +93,7 @@
         header img{border-radius: 50%;width: 70px;float: left; color: #2a9c9c;position: relative;z-index: 200;margin-right: 30px;}
         
         /**Sección NAVEGACIÓN**/
-        section{font-family: 'Bree Serif', serif;font-size: 20px}
+        .respmenu{font-family: 'Bree Serif', serif;font-size: 20px}
   
         .respmenu a {
           color: inherit;
